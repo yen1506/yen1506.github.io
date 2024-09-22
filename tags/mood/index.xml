@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mood on POYEN</title>
+    <link>http://localhost:1313/tags/mood/</link>
+    <description>Recent content in Mood on POYEN</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Sep 2024 19:37:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0922</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 22 Sep 2024 19:37:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h3 id=&#34;今天雨下一整天&#34;&gt;&#xA;  今天雨下一整天。&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e4%bb%8a%e5%a4%a9%e9%9b%a8%e4%b8%8b%e4%b8%80%e6%95%b4%e5%a4%a9&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It&amp;rsquo;s raining cats and dogs.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
